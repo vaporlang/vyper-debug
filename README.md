@@ -1,4 +1,4 @@
-# Vyper-Debug
+# Vapor-Debug
 
 ![vyper-debug](https://user-images.githubusercontent.com/6917456/59114867-62d09c00-8948-11e9-818b-7efcae913317.gif)
 
